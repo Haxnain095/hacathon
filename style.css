@@ -1,0 +1,82 @@
+
+nav.part-1{
+    background-color: rgba(255, 255, 255, 0.836);
+    border-radius: 5px;
+    display: flex;
+}
+nav ul li:hover{
+ color: rgb(226, 0, 0);
+ border-radius: 100px;
+ 
+}
+nav ul{
+    overflow: auto;
+    gap: 200%;
+    
+}
+ul li a{
+    padding:100px;
+    text-decoration: none;
+    color: rgba(14, 19, 22, 0.696);
+    position: relative;
+    padding: 10px 20px
+   
+}
+ul li{
+    list-style: none;
+    float: left;
+   padding: 22px 2px;
+   margin: 4px 13px;
+   gap: 20px;
+   
+} 
+   
+ .go{
+    float: right;
+    padding-left: 50px;
+
+ 
+
+    
+}
+img{
+    display: flex;
+    height: 50px;
+    padding-top: 20px;
+    width: 100px;
+    margin-left: 50px;
+    
+}
+.goo{
+    padding:30px;
+    margin-left: 300px;
+}
+.part-2 h1{
+    font-size: 60px;
+    width: 500px;
+    height: 200px;
+
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 50px;
+    
+}
+
+
+.part-2 img{
+    width:500px;
+    height: 500px;
+    padding-left: 800px;
+    margin-bottom: 1000px;
+}
+    .part-2 p{
+        margin-bottom: 50px;
+        padding-bottom: 50px;
+        font-size: 20px;
+    
+}
+    
